@@ -1,0 +1,611 @@
+.frame {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .overlap-group-wrapper {
+    width: 5154px;
+    height: 20660px;
+  }
+  
+  .frame .overlap-group {
+    position: relative;
+    height: 20660px;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 5137px;
+    height: 20658px;
+    top: 0;
+    left: 17px;
+    background-color: #f8f8f8;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 5137px;
+    height: 3289px;
+    top: 2px;
+    left: 0;
+  }
+  
+  .frame .rectangle-2 {
+    position: absolute;
+    width: 2569px;
+    height: 2296px;
+    top: 5120px;
+    left: 0;
+  }
+  
+  .frame .div {
+    position: absolute;
+    width: 2569px;
+    height: 2672px;
+    top: 12482px;
+    left: 1px;
+    background-color: #f1f4fb;
+  }
+  
+  .frame .rectangle-3 {
+    position: absolute;
+    width: 5136px;
+    height: 1300px;
+    top: 19360px;
+    left: 1px;
+    background-color: #e6e8ef;
+  }
+  
+  .frame .rectangle-4 {
+    position: absolute;
+    width: 1275px;
+    height: 1327px;
+    top: 16629px;
+    left: 431px;
+  }
+  
+  .frame .rectangle-5 {
+    position: absolute;
+    width: 1275px;
+    height: 1327px;
+    top: 9912px;
+    left: 511px;
+  }
+  
+  .frame .rectangle-6 {
+    position: absolute;
+    width: 1275px;
+    height: 1327px;
+    top: 16629px;
+    left: 1933px;
+  }
+  
+  .frame .rectangle-7 {
+    position: absolute;
+    width: 1275px;
+    height: 1327px;
+    top: 9912px;
+    left: 2013px;
+  }
+  
+  .frame .rectangle-8 {
+    position: absolute;
+    width: 1275px;
+    height: 1327px;
+    top: 16629px;
+    left: 3435px;
+  }
+  
+  .frame .rectangle-9 {
+    position: absolute;
+    width: 1275px;
+    height: 1327px;
+    top: 9912px;
+    left: 3515px;
+  }
+  
+  .frame .rectangle-10 {
+    position: absolute;
+    width: 2569px;
+    height: 2296px;
+    top: 5120px;
+    left: 2569px;
+    background-color: #f1f4fa;
+  }
+  
+  .frame .rectangle-11 {
+    position: absolute;
+    width: 858px;
+    height: 281px;
+    top: 11836px;
+    left: 2140px;
+    background-color: #d9d9d9;
+  }
+  
+  .frame .rectangle-12 {
+    position: absolute;
+    width: 858px;
+    height: 327px;
+    top: 18672px;
+    left: 2162px;
+    background-color: #d9d9d9;
+  }
+  
+  .frame .rectangle-13 {
+    position: absolute;
+    width: 617px;
+    height: 202px;
+    top: 7010px;
+    left: 3545px;
+    background-color: #d9d9d9;
+  }
+  
+  .frame .rectangle-14 {
+    position: absolute;
+    width: 617px;
+    height: 202px;
+    top: 14658px;
+    left: 1019px;
+    background-color: #d9d9d9;
+  }
+  
+  .frame .rectangle-15 {
+    position: absolute;
+    width: 603px;
+    height: 172px;
+    top: 4685px;
+    left: 2299px;
+    background-color: #d9d9d9;
+  }
+  
+  .frame .rectangle-16 {
+    position: absolute;
+    width: 2569px;
+    height: 2672px;
+    top: 12482px;
+    left: 2570px;
+  }
+  
+  .frame .group {
+    position: absolute;
+    width: 2036px;
+    height: 488px;
+    top: 5881px;
+    left: 2835px;
+  }
+  
+  .frame .ellipse {
+    left: 0;
+    position: absolute;
+    width: 488px;
+    height: 488px;
+    top: 0;
+    background-color: #ffffff;
+    border-radius: 243.99px;
+  }
+  
+  .frame .ellipse-2 {
+    left: 774px;
+    position: absolute;
+    width: 488px;
+    height: 488px;
+    top: 0;
+    background-color: #ffffff;
+    border-radius: 243.99px;
+  }
+  
+  .frame .ellipse-3 {
+    left: 1548px;
+    position: absolute;
+    width: 488px;
+    height: 488px;
+    top: 0;
+    background-color: #ffffff;
+    border-radius: 243.99px;
+  }
+  
+  .frame .group-wrapper {
+    position: absolute;
+    width: 4028px;
+    height: 488px;
+    top: 8389px;
+    left: 600px;
+  }
+  
+  .frame .group-2 {
+    position: relative;
+    height: 488px;
+  }
+  
+  .frame .ellipse-4 {
+    position: absolute;
+    width: 488px;
+    height: 488px;
+    top: 0;
+    left: 1146px;
+    background-color: #ffffff;
+    border-radius: 243.99px;
+  }
+  
+  .frame .ellipse-5 {
+    position: absolute;
+    width: 488px;
+    height: 488px;
+    top: 0;
+    left: 2321px;
+    background-color: #ffffff;
+    border-radius: 243.99px;
+  }
+  
+  .frame .ellipse-6 {
+    left: 3540px;
+    position: absolute;
+    width: 488px;
+    height: 488px;
+    top: 0;
+    background-color: #ffffff;
+    border-radius: 243.99px;
+  }
+  
+  .frame .group-3 {
+    position: absolute;
+    width: 2036px;
+    height: 488px;
+    top: 13253px;
+    left: 267px;
+  }
+  
+  .frame .lorem-ipsum-dolor {
+    position: absolute;
+    width: 979px;
+    top: 8984px;
+    left: 394px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper {
+    width: 979px;
+    top: 18012px;
+    left: 579px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .p {
+    width: 979px;
+    top: 18012px;
+    left: 2101px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .lorem-ipsum-dolor-2 {
+    width: 979px;
+    top: 18024px;
+    left: 3623px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .lorem-ipsum-dolor-3 {
+    width: 979px;
+    top: 8984px;
+    left: 1500px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-2 {
+    width: 698px;
+    top: 6417px;
+    left: 2775px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .lorem-ipsum-dolor-4 {
+    width: 1004px;
+    top: 3569px;
+    left: 2099px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .lorem-ipsum-dolor-5 {
+    width: 1004px;
+    top: 5394px;
+    left: 3407px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .lorem-ipsum-dolor-6 {
+    width: 1004px;
+    top: 12823px;
+    left: 866px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-3 {
+    width: 698px;
+    top: 13923px;
+    left: 241px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-4 {
+    width: 698px;
+    top: 13917px;
+    left: 1019px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-5 {
+    width: 698px;
+    top: 13917px;
+    left: 1813px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-6 {
+    width: 698px;
+    top: 6422px;
+    left: 3534px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-7 {
+    width: 698px;
+    top: 6427px;
+    left: 4312px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .lorem-ipsum-dolor-7 {
+    width: 979px;
+    top: 8972px;
+    left: 2724px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .lorem-ipsum-dolor-8 {
+    width: 979px;
+    top: 8954px;
+    left: 3948px;
+    position: absolute;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .image {
+    width: 241px;
+    height: 241px;
+    top: 5989px;
+    left: 2944px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-2 {
+    width: 258px;
+    height: 258px;
+    top: 5996px;
+    left: 3724px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-3 {
+    width: 241px;
+    height: 241px;
+    top: 13364px;
+    left: 383px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-4 {
+    width: 243px;
+    height: 243px;
+    top: 6003px;
+    left: 4505px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-5 {
+    width: 258px;
+    height: 258px;
+    top: 13371px;
+    left: 1163px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-6 {
+    width: 342px;
+    height: 342px;
+    top: 8462px;
+    left: 1819px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-7 {
+    width: 243px;
+    height: 243px;
+    top: 13378px;
+    left: 1944px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-8 {
+    width: 376px;
+    height: 376px;
+    top: 4018px;
+    left: 951px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-9 {
+    width: 376px;
+    height: 376px;
+    top: 8462px;
+    left: 4196px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-10 {
+    width: 369px;
+    height: 369px;
+    top: 4018px;
+    left: 1526px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-11 {
+    width: 379px;
+    height: 379px;
+    top: 4008px;
+    left: 2091px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-12 {
+    width: 379px;
+    height: 379px;
+    top: 8443px;
+    left: 654px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-13 {
+    width: 374px;
+    height: 374px;
+    top: 4013px;
+    left: 2667px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-14 {
+    width: 389px;
+    height: 389px;
+    top: 4013px;
+    left: 3238px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-15 {
+    width: 383px;
+    height: 383px;
+    top: 4014px;
+    left: 3806px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .image-16 {
+    width: 383px;
+    height: 383px;
+    top: 8462px;
+    left: 2973px;
+    position: absolute;
+    object-fit: cover;
+  }
